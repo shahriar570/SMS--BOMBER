@@ -8,14 +8,23 @@ Free and Unlimited best SMS BOMBER Tools
 The dark overload 
 
 # INSTALLATION ⬇️
+
 pkg update -y 
+
 pkg upgrade -y 
+
 pkg install git -y 
+
 pkg install python -y 
+
 pip3 install requests 
+
 rm -rf SMS-BOMBER 
+
 git clone  https://github.com/TEAMBCS/SMS-BOMBER
+
 cd SMS-BOMBER 
+
 python BCS-BOMB.py 
 
 
