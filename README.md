@@ -1,10 +1,19 @@
 # SMS--BOMBER by *SHAHRIAR*
-Powerfull sms bomber 
+Powerfull sms bomber
+
 SMS-BOMBER
 # SMS-BOMB
 Free and Unlimited best SMS BOMBER Tools
 🖤Assalamu Alaikum🖤
-BCS-TEAM
+The dark overload 
+
+INSTALLATION ⬇️
+pkg update -y
+SMS-BOMBER
+SMS-BOMB
+Free and Unlimited best SMS BOMBER Tools
+🖤Assalamu Alaikum🖤
+The Dark Overload-TEAM
 
 INSTALLATION ⬇️
 pkg update -y
@@ -17,5 +26,5 @@ git clone https://github.com/TEAMBCS/SMS-BOMBER
 cd SMS-BOMBER
 python BCS-BOMB.py
 
-©️BCS TEAM
-This Tool only Friend prank's Our team is not responsible if it is used by someone for unethical activities.
+©️THE DARK OVERLOAD TEAM
+This Tool only Friend prank's Our team is not responsible if it is used by someone for unethical activities.pkg 
